@@ -128,8 +128,6 @@ All team members contributed to the overall robot concept, integration, testing,
 
 ![Robot front view](media/robot%20front.jpg)
 
-![Assembled robot side view](media/assembled%20side.jpg)
-
 ## Acknowledgements
 
 Developed as part of the Advanced Robotics Challenge at the **Kyoto University of Advanced Science, Faculty of Engineering**.
