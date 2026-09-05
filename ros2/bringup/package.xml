@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>bringup</name>
+  <version>0.0.0</version>
+  <description>Bringup package to launch the camera and QR nodes</description>
+  <maintainer email="ml3@todo.todo">ml3</maintainer>
+  <license>TODO: License declaration</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- Executable Dependencies -->
+  <exec_depend>ros2launch</exec_depend> <!-- Recommended for bringup packages -->
+  <exec_depend>camera</exec_depend>
+  <exec_depend>v4l2_camera</exec_depend>
+  <exec_depend>keyboard_serial</exec_depend> <!-- Dependency for your keyboard node -->
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
