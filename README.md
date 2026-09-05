@@ -121,7 +121,14 @@ All team members contributed to the overall robot concept, integration, testing,
 
 ## Media
 
-Photos and demonstration videos of the completed robot will be added here.
+## Media
+
+
+![Robot side view](media/robot%20side.jpg)
+
+![Robot front view](media/robot%20front.jpg)
+
+![Assembled robot side view](media/assembled%20side.jpg)
 
 ## Acknowledgements
 
