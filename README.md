@@ -4,6 +4,9 @@ A tracked mobile robot designed and built as an original solution for an advance
 
 This was a **collaborative engineering project**, with responsibilities divided between chassis design, manipulator design, and software/electronics development and integration.
 
+Robot intro video: https://youtu.be/DNCCo0lLdTs?si=WyLiwINA4ZjfwPFh 
+To know more about the challenge, visit Gallery — https://nisarlab.org/gallery 
+
 ## Project Overview
 
 The robot was designed from the ground up to navigate a challenging course while performing both mobility and manipulation tasks.
