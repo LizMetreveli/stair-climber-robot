@@ -45,14 +45,14 @@ def main(args=None):
                 if key in KEYS:
                     node.send_key(key)
             
-            # Adding timeout_sec keeps the CPU load low during spinning
+           
             rclpy.spin_once(node, timeout_sec=0.01)
 
     except KeyboardInterrupt:
         pass
 
     finally:
-        # Restore terminal settings and close resources 
+        
         termios.tcsetattr(
             sys.stdin,
             termios.TCSADRAIN,
