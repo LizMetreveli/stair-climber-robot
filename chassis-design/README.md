@@ -19,7 +19,3 @@ This chassis was engineered in Fusion 360 to navigate challenging terrains and c
 *   **Native Models:** Original parametric workspace files to easily modify tolerances, brackets, or component placements.
 *   **STEP Assembly:** A complete unified assembly file is provided for viewing the entire robot structure and checking clearances in your preferred CAD software.
 *   **STL Export:** Individual parts exported and correctly oriented for direct manufacturing.
-
-## License
-
-This hardware design is released under the **CERN Open Hardware Licence (CERN-OHL)**. You are free to modify, distribute, and use these designs for both personal and commercial projects, provided you share your modifications under the same license.
